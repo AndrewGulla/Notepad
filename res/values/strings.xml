@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="list_empty">No Notes Saved</string>
+    <string name="menu_new">New Note</string>
+    <string name="menu_delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="save">SAVE</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="edit_hint">Insert text here</string>
+     <string name="button_new">New Note</string>
+</resources>
